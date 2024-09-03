@@ -1,0 +1,15 @@
+.button-plus {
+    background-color: #6d0808;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    position: fixed;
+    bottom: 90px;
+    right: 80px;
+}
