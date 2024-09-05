@@ -1,7 +1,7 @@
 let dados = [
     {
         universo: 'Dragon Ball', // Nome do universo
-        descricao: 'Um universo onde a luta e o treinamento são essenciais para se tornar mais forte.',
+        descricao: 'O universo Dragon Ball é um vasto cenário de aventuras, artes marciais e buscas por poder, criado pelo mangaká Akira Toriyama. A história gira em torno de Son Goku, um jovem saiyan com uma força extraordinária, e sua jornada para se tornar o guerreiro mais forte do universo.',
         raças: ['Saiyajin', 'Namekuseijin', 'Humano', 'Majin'],
         artefatos: ['Esferas do Dragão', 'Bastão do Poder'],
         tecnologias: ['Máquina do Tempo', 'Sala do Tempo'],
@@ -13,7 +13,7 @@ let dados = [
     },
     {
         universo: 'Marvel',
-        descricao: 'Um universo interconectado de super-heróis e vilões, onde eventos cósmicos e conflitos interdimensionais são comuns.',
+        descricao: 'O Universo Marvel é um vasto universo compartilhado, criado pela Marvel Comics, onde se passam as aventuras de inúmeros super-heróis e vilões. É como um grande playground onde personagens como Homem de Ferro, Thor, Capitão América, Hulk, Homem-Aranha e muitos outros interagem em histórias épicas e emocionantes.',
         raças: ['Humano', 'Mutante', 'Asgardiano', 'Inumano', 'Kree', 'Skrull'],
         artefatos: ['Mjolnir', 'Escudo do Capitão América', 'Guantelete do Infinito'],
         tecnologias: ['Reator Ark', 'Viagem Interdimensional', 'Armas Vibranium'],
@@ -25,7 +25,7 @@ let dados = [
     },
     {
         universo: 'Star Wars',
-        descricao: 'Uma galáxia distante, governada pela Força, onde a luta entre o bem e o mal molda o destino de muitos.',
+        descricao: 'Star Wars é uma saga épica de ficção científica que se passa em uma galáxia distante, repleta de planetas, espécies alienígenas e tecnologias avançadas. A história se concentra na luta entre o bem e o mal, representados pela Aliança Rebelde e o Império Galáctico, respectivamente.',
         raças: ['Humano', 'Twi-lek', 'Wookiee', 'Droid', 'Jedi', 'Sith'],
         artefatos: ['Sabre de Luz', 'Holocron', 'Sfera Sith'],
         tecnologias: ['Hiperdrive', 'Blasters', 'Estrela da Morte'],
